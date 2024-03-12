@@ -4,7 +4,8 @@
   👨‍💻 I'm a software developer
 </p>
 <p>
-   🌱 I’m currently learning and working .NET Core and Entitiy Framework Core
+   🌱 I’m currently learning and working .NET technologies
+
 </p>
 
 <h3>
