@@ -1,10 +1,10 @@
 ### Hello! My name is Hamit Can 👋
 
 <p>
-  👨‍💻 I am a Software Developer
+  👨‍💻 I'm a software developer
 </p>
 <p>
-   🎈 Working with .NET and Entitiy Framework Core
+   🌱 I’m currently learning and working .NET Core and Entitiy Framework Core
 </p>
 
 <h3>
